@@ -1,15 +1,23 @@
-## Hi there 👋
+<div align="center">
 
+# Hi, I'm Sachidananda Rautray! 👋
 
-**sachidanandarautray/sachidanandarautray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇮🇳 Data Scientist | Vedanta Enthusiast | Spiritual Lover
 
-Here are some ideas to get you started:
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)"/>
 
-- 🔭 I’m currently working on AI/ML Engineer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*"Data is the logic of the universe; Spirituality is its essence."*
+
+---
+
+</div>
+
+### 🧐 About Me
+
+- 🔭 I’m currently working on **Advanced Deep learning and Gen ai Projects**.
+- 🕉️ I’m a passionate **Vedanta Lover**, exploring the intersection of modern science and ancient wisdom.
+- 🧘‍♂️ I believe in **Spirituality** as the foundation for a balanced life and clear thinking.
+- 💡 I love transforming raw data into actionable insights while keeping my mind grounded.
+- 📍 Based in **India**.
+
+---
